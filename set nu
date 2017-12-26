@@ -1,0 +1,48 @@
+[33mcommit 3278fffc91f1cf1a102308ee8cffda74688f9c1d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mdev[m[33m)[m
+Merge: 8fb5fe0 2c873a1
+Author: liuhengyao <286940414@qq.com>
+Date:   Mon Dec 25 18:43:54 2017 +0800
+
+    Merge branch 'fenzhi'
+
+[33mcommit 8fb5fe0ed8e1ba32c61406866a7fb0c5a946c267[m
+Author: liuhengyao <286940414@qq.com>
+Date:   Mon Dec 25 18:38:57 2017 +0800
+
+    master 分支添加9999
+
+[33mcommit 2c873a1f89cf32596c9e58c5be7a3990ed8cc2f8[m[33m ([m[1;31morigin/fenzhi[m[33m, [m[1;32mfenzhi[m[33m)[m
+Author: liuhengyao <286940414@qq.com>
+Date:   Mon Dec 25 18:37:34 2017 +0800
+
+    fenzhi 添加88888
+
+[33mcommit 059f698186d3efdec33d499d19ccfbb098acfe3b[m
+Author: liuhengyao <286940414@qq.com>
+Date:   Mon Dec 25 18:32:17 2017 +0800
+
+    在dev分支添加7777
+
+[33mcommit 1ed5e7cee4c248968456eea340f897801a359abf[m
+Author: liuhengyao <286940414@qq.com>
+Date:   Mon Dec 25 18:17:38 2017 +0800
+
+    删除 text.txt
+
+[33mcommit a9c518c7f05ce6b15a23f2ff8ee0c82199fecf22[m
+Author: liuhengyao <286940414@qq.com>
+Date:   Mon Dec 25 17:53:24 2017 +0800
+
+    ffdsf
+
+[33mcommit 6842a6ec6c5814be7174879c7fafd523183f9580[m
+Author: liuhengyao <286940414@qq.com>
+Date:   Fri Dec 22 14:44:55 2017 +0800
+
+    测试2
+
+[33mcommit c755a6c0a08ef4ece4fe8d24910d56bd80b2171d[m
+Author: liuhengyao <286940414@qq.com>
+Date:   Fri Dec 22 11:09:42 2017 +0800
+
+    测试提交
